@@ -1,6 +1,3 @@
-# Customer-Behavior-Analytics-using-Python-SQL-Power-BI
-End-to-end data analytics project analyzing retail customer shopping behavior using Python, SQL, and Power BI. Includes data cleaning, EDA, SQL business analysis, interactive dashboard, project report, and business recommendations.
-
 # 🛍️ Customer Shopping Behavior Analysis
 
 An end-to-end Data Analytics project that analyzes retail customer shopping behavior using **Python, SQL, and Power BI**. The project demonstrates the complete analytics workflow—from data cleaning and exploratory analysis to business insights and interactive dashboard creation.
