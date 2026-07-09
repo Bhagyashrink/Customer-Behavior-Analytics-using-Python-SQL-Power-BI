@@ -32,5 +32,5 @@ This project was completed as part of my learning journey by following the YouTu
 ## 📊 Dashboard
 
 Interactive Power BI dashboard showcasing the key insights from the customer shopping behavior analysis.
+<img width="1085" height="553" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/f860dc75-462b-4562-b8d3-53a0c8b7c353" />
 
-<img width="1081" height="550" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/c85fa804-7b97-464d-9513-34108d5039c7" />
